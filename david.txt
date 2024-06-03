@@ -1,2 +1,6 @@
 Hola, soy David, cómo estás....
+<<<<<<< HEAD
 Hola, soy Isabel
+=======
+Buenas! Elena tratando de actualizar
+>>>>>>> 365bb0af06b5efc6ed25606ccf53d1c2276907c4

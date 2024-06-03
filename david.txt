@@ -1,3 +1,15 @@
 Hola, soy David, cómo estás....
+<<<<<<< HEAD
 Buenas! Elena tratando de actualizar
 dgdfgdfgdfgdfgdfg
+=======
+Hola, soy Isabel
+Yo soy Groot y no puc mes
+<<<<<<< HEAD
+
+La tarifa de Finetwork de 300 megas y cien gigas...
+=======
+Buenas! Elena tratando de actualizar
+
+>>>>>>> 90d9b424907e8d752357234fa1bb28405b3173ea
+>>>>>>> 26d7fc65c7a9447335584f13cc37c6c2fc562cd0

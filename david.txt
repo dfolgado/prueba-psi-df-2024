@@ -1,3 +1,5 @@
 Hola, soy David, cómo estás....
+<<<<<<< HEAD
+Hola, soy Isabel
+=======
 Buenas! Elena tratando de actualizar
-quiero cerveza u.u
